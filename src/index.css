@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  margin-left: 40% ;
+  margin-top: 10%;
+  margin-right: 20%;
+  
+}
